@@ -1,1 +1,1 @@
-mkdir C:\Drive\QA_Rate\DevOps\TestBuild\Sample
+mkdir C:\Drive\QA_Rate\DevOps\TestBuild\TestProject\Sample
